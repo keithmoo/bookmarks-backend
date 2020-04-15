@@ -7,3 +7,4 @@ CREATE TABLE bookmarks (
   rating star_rating NOT NULL,
   description TEXT
 );
+
